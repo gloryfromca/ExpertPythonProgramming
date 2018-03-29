@@ -1,0 +1,2 @@
+fabric: code deployment tool
+command:fab -R production deployment

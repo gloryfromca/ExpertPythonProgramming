@@ -1,0 +1,11 @@
+kill -HUP <gunicorn-worker-id>
+restart gunicorn worker.
+
+kill -HUP <gunicorn-master-id>
+restart gunicorn master.
+
+kill -9 <process-id>
+kill process immediately.
+
+kill <process-id>
+process exits until process has done something, e.g., closing files opened.

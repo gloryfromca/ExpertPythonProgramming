@@ -1,0 +1,15 @@
+[2018-02-05 18:37:02 +0800] [10876] [INFO] Starting gunicorn 19.7.1
+[2018-02-05 18:37:02 +0800] [10876] [INFO] Listening at: http://0.0.0.0:8080 (10876)
+[2018-02-05 18:37:02 +0800] [10876] [INFO] Using worker: sync
+[2018-02-05 18:37:02 +0800] [10883] [INFO] Booting worker with pid: 10883
+[2018-02-05 18:37:02 +0800] [10887] [INFO] Booting worker with pid: 10887
+[2018-02-05 18:37:02 +0800] [10888] [INFO] Booting worker with pid: 10888
+[2018-02-05 18:37:02 +0800] [10889] [INFO] Booting worker with pid: 10889
+[2018-02-05 18:37:02 +0800] [10891] [INFO] Booting worker with pid: 10891
+[2018-02-05 18:38:26 +0800] [10876] [INFO] Handling signal: term
+[2018-02-05 18:38:26 +0800] [10888] [INFO] Worker exiting (pid: 10888)
+[2018-02-05 18:38:26 +0800] [10883] [INFO] Worker exiting (pid: 10883)
+[2018-02-05 18:38:26 +0800] [10889] [INFO] Worker exiting (pid: 10889)
+[2018-02-05 18:38:26 +0800] [10887] [INFO] Worker exiting (pid: 10887)
+[2018-02-05 18:38:26 +0800] [10891] [INFO] Worker exiting (pid: 10891)
+[2018-02-05 18:38:26 +0800] [10876] [INFO] Shutting down: Master

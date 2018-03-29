@@ -1,0 +1,14 @@
+===========
+module1
+===========
+
+
+This section contains modules documents:
+
+.. module:: appexample.module1
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   *

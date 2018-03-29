@@ -1,0 +1,12 @@
+Nothing!
+just a test...
+
+under `packagefortest-dev`:
+`bulid/lib` will contain entire source code, it's same as `packagefortest`.
+`dist` will contain all dists including sdist(.tar, .zip, .tar.gz),bdist(.egg),bdist_wheel(.whl).
+`packagefortest.egg-info` is info about bdist of the package.
+`MANIFEST.in` shows that how are files included or not.
+`setup.py` is a building program implemented mainly by `setup` method from `setuptools`.
+`setup.cfg` is configuration of building progress.
+
+

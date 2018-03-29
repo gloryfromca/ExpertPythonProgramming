@@ -1,0 +1,20 @@
+===========
+startup
+===========
+
+
+This section contains:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+
+   cookbook/*
+
+===========
+refs
+===========
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`

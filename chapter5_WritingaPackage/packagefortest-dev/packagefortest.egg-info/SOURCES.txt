@@ -1,0 +1,11 @@
+MANIFEST.in
+README
+setup.cfg
+setup.py
+packagefortest/__init__.py
+packagefortest/dosomething.py
+packagefortest.egg-info/PKG-INFO
+packagefortest.egg-info/SOURCES.txt
+packagefortest.egg-info/dependency_links.txt
+packagefortest.egg-info/requires.txt
+packagefortest.egg-info/top_level.txt

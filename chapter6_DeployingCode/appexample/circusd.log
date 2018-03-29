@@ -1,0 +1,11 @@
+2018-02-05 18:37:01 circus[10873] [INFO] Starting master on pid 10873
+2018-02-05 18:37:01 circus[10873] [INFO] sockets started
+2018-02-05 18:37:01 circus[10873] [INFO] Arbiter now waiting for commands
+2018-02-05 18:37:01 circus[10873] [INFO] appexample started
+2018-02-05 18:37:01 circus[10873] [INFO] circusd-stats started
+2018-02-05 18:37:01 circus[10873] [INFO] circushttpd started
+2018-02-05 18:38:26 circus[10873] [INFO] Got signal SIG_TERM
+2018-02-05 18:38:26 circus[10873] [INFO] Arbiter exiting
+2018-02-05 18:38:26 circus[10873] [INFO] circusd-stats stopped
+2018-02-05 18:38:26 circus[10873] [INFO] circushttpd stopped
+2018-02-05 18:38:27 circus[10873] [INFO] appexample stopped

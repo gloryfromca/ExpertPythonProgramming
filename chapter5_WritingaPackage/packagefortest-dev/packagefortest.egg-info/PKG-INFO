@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: packagefortest
+Version: 0.0.2
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Joe
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: test
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python :: 3.5

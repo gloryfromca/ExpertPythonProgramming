@@ -1,0 +1,14 @@
+===========
+cookbook
+===========
+
+
+This section contains cookbook documents:
+
+.. toctree::
+   :maxdepth: 2
+
+   how
+   when
+
+

@@ -1,0 +1,3 @@
+circus isn't recommended to use.
+start daemon process: circusd --daemon --log-output circusd.log circus.ini
+interaction command: circusctl
