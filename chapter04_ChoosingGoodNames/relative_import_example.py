@@ -11,5 +11,5 @@ print(how_to_name)
 from .litte_package import print_b
 print(print_b)
 
-from chapter4_ChoosingGoodNames.litte_package import print_b
+from chapter04_ChoosingGoodNames.litte_package import print_b
 print(print_b)

@@ -1,3 +1,0 @@
-import chapter4_ChoosingGoodNames.relative_import_example
-print(__name__)
-print(chapter4_ChoosingGoodNames.relative_import_example)
